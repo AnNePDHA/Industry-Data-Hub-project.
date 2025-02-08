@@ -1,20 +1,14 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Designed and implemented a centralized data warehouse to streamline data management and reporting for a community housing company. The project involved collecting, transforming, and storing data from various sources, enabling efficient data analysis and visualization.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Step By Step
+![My Image](diagram.png)
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Result
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+* **An Pham** - Data Engineer - [AnNePDHA](https://github.com/AnNePDHA)
+  * Collected and processed CSV and Excel files from a web application using Databricks and Azure Storage Account, improving data integration efficiency.
+  * Developed ETL pipelines using Python and Databricks to extract, transform, and load data into Microsoft SQL Server, ensuring data accuracy and consistency.
+  * Enabled users to define and manage tables in Microsoft SQL Server, ensuring a structured and scalable data storage solution.
+  * Maintained the entire system, ensuring data reliability and system performance.
